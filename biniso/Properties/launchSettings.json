@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "biniso": {
+      "commandName": "Project",
+      "commandLineArgs": "boot.bin boot.iso"
+    }
+  }
+}
