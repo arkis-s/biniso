@@ -5,6 +5,8 @@ To create a command line utility that will create a bootable iso file from a bin
 
 An iso file was reverse engineered along side with documents (referenced at the end), in order to derive the theory and (hopefully) create a working application.
 
+!! this writeup is a little bit wrong, will fix soon !!
+
 ## Theory
 
 ### Creating the ISO file
