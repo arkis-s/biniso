@@ -1,11 +1,5 @@
 # biniso
 
-## To-do:
-1. why do this & what is the goal of this
-2. how was the file made?
-3. explain the different sections
-4. perhaps a little website plug? hmm
-
 ## What is it?
 A dirty command line utility used to create a bootable iso file using a bin file (or really any format, as long as the binary is bootable).
 
